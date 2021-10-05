@@ -1,0 +1,54 @@
+body {
+	margin: 0;
+	background-image: url('assets/background.png');
+}
+
+nav {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	background-color: #333333;
+	text-align: center;
+	padding: 25px;
+}
+
+a, h3 {
+	font-family: 'Courier Prime', monospace;
+	color: #ff0099;
+	text-decoration: none;
+}
+
+a:hover {
+	color: dimgray;
+}
+
+a {
+	margin-left: 25px;
+}
+
+.separator {
+	text-align: center;
+}
+
+.tech {
+	text-align: center;
+}
+
+div {
+	padding: 10%;
+}
+
+.left {
+	float: left;
+	width: 200px;
+	margin-right: 100px;
+}
+
+.right {
+	float: left;
+	width: 200px;
+}
+
+p {
+	font-family: 'Courier Prime', monospace;
+}
