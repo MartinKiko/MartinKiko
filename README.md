@@ -4,6 +4,7 @@
   <img align="left" alt="Martin Kiko" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 Full Week Project: Wanderer - The RPG game
 https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java
 
