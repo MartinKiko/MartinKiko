@@ -6,8 +6,8 @@
 
 <br />
 
-Full Week Project: Wanderer - The RPG game
-https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java
+Full Week Project: Wanderer - [The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
+
 
 **languages and tools:**
 
