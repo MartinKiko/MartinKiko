@@ -14,6 +14,8 @@
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html)
+
 
 **languages and tools:**
 
