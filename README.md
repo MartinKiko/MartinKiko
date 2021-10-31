@@ -1,4 +1,4 @@
-# Hi, I'm Martin :wave: :man_technologist: :technologist: 
+# Hi, I'm Martin :wave: :man_technologist:
 
 Full Week Project: Wanderer - The RPG game
 https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java
