@@ -31,6 +31,6 @@
 ---
 **Contact:** 
 <br />
-:phone: +421 949 303 267 :envelope: martinkiko19@gmail.com 
+:phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :globe_with_meridians:	www.martinkiko.com
 <br />
 :slovakia: :czech_republic: :us:
