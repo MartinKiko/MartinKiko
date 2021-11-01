@@ -31,6 +31,6 @@
 ---
 **Contact:** 
 <br />
-:phone: +421 949 303 267 
+:phone: +421 949 303 267 :envelope: martinkiko19@gmail.com 
 <br />
-:envelope: martinkiko19@gmail.com :slovakia: :us: :czech_republic:
+:slovakia: :czech_republic: :us:
