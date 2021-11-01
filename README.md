@@ -1,9 +1,5 @@
 # Hi, I'm Martin :wave: :man_technologist:
 
-<a href="https://www.linkedin.com/in/martin-kiko-250480130/">
-  <img align="left" alt="Martin Kiko" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 
 ## 🚀💻 Technologies & Tools
@@ -23,7 +19,7 @@
 
 
 ---  
-**Projects** :point_down: Still working on it :safety_vest:
+**Projects** :point_down: Still working on it :safety_vest: :hammer_and_wrench:
 * [Snake game in C++ :snake:]()
 * [Snake game in JavaScript]()
 * [JavaScript game :video_game:]()
@@ -31,6 +27,8 @@
 ---
 **Contact:** 
 <br />
-:phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :globe_with_meridians:	www.martinkiko.com
+<a href="https://www.linkedin.com/in/martin-kiko-250480130/">
+  <img align="left" alt="Martin Kiko" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> :phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :globe_with_meridians:	www.martinkiko.com
 <br />
 :slovakia: :czech_republic: :us:
