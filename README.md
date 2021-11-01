@@ -22,7 +22,7 @@
 
 
 ---  
-*Projects*
+***Projects***
 * [Snake game in C++]()
 * [Snake game in JavaScript]()
 * [Wanderer - The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
