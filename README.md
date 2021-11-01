@@ -16,7 +16,7 @@
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html)
   ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html)
-  https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+  ![HTML]( https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
 
 **languages and tools:**
