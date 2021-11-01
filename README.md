@@ -23,8 +23,10 @@
 
 
 ---  
-**Projects** :point_down:
-* [Snake game in C++]()
+**Projects** :point_down: Still working on it :safety_vest:
+* [Snake game in C++ :snake:]()
 * [Snake game in JavaScript]()
-* [JavaScript gme]()
+* [JavaScript game :video_game:]()
 * [Wanderer - The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
+---
+**Contact** :phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :slovakia: :us: :czech_republic:
