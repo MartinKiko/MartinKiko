@@ -1,6 +1,6 @@
 # Hi, I'm Martin :wave: :man_technologist:
 
-[:phone:](www.martinkiko.com)
+[:phone:](https://www.martinkiko.com/)
 
 <br />
 
