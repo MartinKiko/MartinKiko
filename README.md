@@ -1,5 +1,7 @@
 # Hi, I'm Martin :wave: :man_technologist:
 
+[:phone:](+421 949 303 267)
+
 <br />
 
 ## 🚀💻 Technologies & Tools
