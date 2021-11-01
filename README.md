@@ -18,5 +18,7 @@
 ![HTML]( https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 
 ---  
+[Snake game in C++]()
+[Snake game in JavaScript]()
   
-Full Week Project: Wanderer - [The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
+Full Week Project: [Wanderer - The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
