@@ -29,4 +29,8 @@
 * [JavaScript game :video_game:]()
 * [Wanderer - The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
 ---
-**Contact** :phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :slovakia: :us: :czech_republic:
+**Contact:** 
+<br />
+:phone: +421 949 303 267 
+<br />
+:envelope: martinkiko19@gmail.com :slovakia: :us: :czech_republic:
