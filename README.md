@@ -1,7 +1,5 @@
 # Hi, I'm Martin :wave: :man_technologist:
 
-[:phone:](https://www.martinkiko.com/)
-
 <br />
 
 ## 🚀💻 Technologies & Tools
