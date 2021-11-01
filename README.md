@@ -23,7 +23,7 @@
 
 
 ---  
-**Projects**
+**Projects** :point_down:
 * [Snake game in C++]()
 * [Snake game in JavaScript]()
 * [JavaScript gme]()
