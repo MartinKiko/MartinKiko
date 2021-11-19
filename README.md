@@ -21,7 +21,7 @@
 ---  
 **Projects** :point_down: Still working on it :safety_vest: :hammer_and_wrench:
 * [Snake game in C++ :snake:]()
-* [Snake game in JavaScript]()
+* [Snake game in JavaScript](https://github.com/MartinKiko/Snake-game-in-JS)
 * [JavaScript game :video_game:]()
 * [Wanderer - The RPG game](https://github.com/MartinKiko/MartinKiko/tree/master/wanderer-java)
 ---
