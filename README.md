@@ -29,6 +29,6 @@
 <br />
 <a href="https://www.linkedin.com/in/martin-kiko-250480130/">
   <img align="left" alt="Martin Kiko" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> :phone: +421 949 303 267 :envelope: martinkiko19@gmail.com :globe_with_meridians:	www.martinkiko.com
+</a> :globe_with_meridians:	www.martinkiko.com
 <br />
 :slovakia: :czech_republic: :us:
