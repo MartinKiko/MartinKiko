@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+
+.main, a {
+	padding: 25px;
+	color: black;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+}
+
+p {
+	width: 750px;
+	margin: 100px auto;
+}
